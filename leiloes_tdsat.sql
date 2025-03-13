@@ -1,0 +1,1 @@
+CREATE DATABASE leiloes_tdsat;
